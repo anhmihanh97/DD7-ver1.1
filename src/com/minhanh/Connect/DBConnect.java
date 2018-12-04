@@ -38,6 +38,10 @@ import com.mysql.jdbc.Connection;
 			public static void main(String[] args) {
 				System.out.println(getConnection());
 			}
-				
+			public static void main(String[] args) {
+				System.out.println(getConnection());
+			}public static void main(String[] args) {
+				System.out.println(getConnection());
+			}	
 	}
 
